@@ -1,0 +1,9 @@
+git - sustav za verzioniranje koda (VCS)
+django - (ne jungle) web framework (kao i flask), malo ograničeniji, no moćniji
+virtual environments - odvojena verzija pythona skupa s libraryjima
+route - dio URL-a nakon imena web stranice (nakon /)
+dekorator - anotacije/funkcije koje mijenjaju/nadograđuju druge funkcije
+ip adresa - adresa uređaja (ili stranice) spojenog na internet
+localhost (adresa 127.0.0.1) - adresa OVOG računala
+http port - "vrata" tj. kanala za pristup web stranici (127.0.0.1:80)
+jinja2 - template engine za python (dolazi s flaskom)
